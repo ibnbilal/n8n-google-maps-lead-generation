@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 ![n8n](https://img.shields.io/badge/n8n-workflow-EA4B71?style=flat-square&logo=n8n)
 ![AI](https://img.shields.io/badge/AI-Powered-00A67E?style=flat-square)
 ![License](https://img.shields.io/badge/license-Personal%20%26%20Commercial-blue?style=flat-square)
