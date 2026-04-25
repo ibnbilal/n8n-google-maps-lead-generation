@@ -1,3 +1,7 @@
+![n8n](https://img.shields.io/badge/n8n-workflow-EA4B71?style=flat-square&logo=n8n)
+![AI](https://img.shields.io/badge/AI-Powered-00A67E?style=flat-square)
+![License](https://img.shields.io/badge/license-Personal%20%26%20Commercial-blue?style=flat-square)
+
 # 🗺️ AI Lead Generation & Social Discovery — n8n Workflow
 
 > Automatically find businesses on Google Maps, extract their emails and social profiles, validate contacts, score leads with AI, generate personalized outreach messages, and save everything to Google Sheets — hands-free.
